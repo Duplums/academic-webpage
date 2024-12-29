@@ -1,7 +1,7 @@
 ---
 title: Contrastive Learning with Continuous Proxy Meta-data for 3D MRI Classification
 authors:
-- Benoit Dufumier
+- admin
 - Pietro Gori
 - Julie Victor
 - Antoine Grigis
@@ -33,7 +33,7 @@ abstract: 'Traditional supervised learning with deep neural networks requires a 
   introducing a new loss called y-Aware InfoNCE loss. Specifically, we improve the
   positive sampling during pre-training by adding more positive examples with similar
   proxy meta-data with the anchor, assuming they share similar discriminative semantic
-  features. With our method, a 3D CNN model pre-trained on $$10textasciicircum4$$104multi-site
+  features. With our method, a 3D CNN model pre-trained on 10^4 multi-site
   healthy brain MRI scans can extract relevant features for three classification tasks:
   schizophrenia, bipolar diagnosis and Alzheimer’s detection. When fine-tuned, it
   also outperforms 3D CNN trained from scratch on these tasks, as well as state-of-the-art

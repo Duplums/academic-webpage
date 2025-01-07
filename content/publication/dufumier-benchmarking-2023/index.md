@@ -2,7 +2,7 @@
 title: 'Benchmarking CNN on 3D Anatomical Brain MRI: Architectures, Data Augmentation
   and Deep Ensemble Learning'
 authors:
-- Benoit Dufumier
+- admin
 - Pietro Gori
 - Ilaria Battaglia
 - Julie Victor
@@ -41,9 +41,10 @@ abstract: 'Deep Learning (DL) and speciﬁcally CNN models have become a de fact
   and we empirically proved that deep ensemble learning is well suited to re-calibrate
   them without sacriﬁcing performance.'
 tags:
-- Computer Science - Computer Vision and Pattern Recognition
-- Computer Science - Machine Learning
-- Electrical Engineering and Systems Science - Image and Video Processing
+- Brain imaging
+- Deep learning
+- Pychiatric disorders
+- Brain age prediction
 links:
 - name: URL
   url: http://arxiv.org/abs/2106.01132

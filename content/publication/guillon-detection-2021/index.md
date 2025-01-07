@@ -3,7 +3,7 @@ title: Detection of Abnormal Folding Patterns with Unsupervised Deep Generative 
 authors:
 - Louise Guillon
 - Bastien Cagna
-- Benoit Dufumier
+- admin
 - Joël Chavas
 - Denis Rivière
 - Jean-François Mangin
@@ -11,7 +11,7 @@ date: '2021-01-01'
 publishDate: '2024-12-29T17:27:10.729312Z'
 publication_types:
 - paper-conference
-publication: '*Machine Learning in Clinical Neuroimaging*'
+publication: '*Machine Learning in Clinical Neuroimaging -- MLCN 2021*'
 doi: 10.1007/978-3-030-87586-2_7
 abstract: Although the main structures of cortical folding are present in each human
   brain, the folding pattern is unique to each individual. Because of this large normal
@@ -30,9 +30,14 @@ abstract: Although the main structures of cortical folding are present in each h
   the latent representation is rich enough to distinguish subtle differences like
   asymmetries between the right and left hemispheres.
 tags:
-- Anomaly benchmark
 - Anomaly detection
 - Brain architecture
 - Cortical folding
 - Variational autoencoder
+links:
+- name: URL
+  url: https://link.springer.com/chapter/10.1007/978-3-030-87586-2_7
+url_pdf: https://link.springer.com/chapter/10.1007/978-3-030-87586-2_7
+url_code: 'https://github.com/neurospin-projects/2022_lguillon_rare_folding_detection'
+url_dataset: 'https://ieee-dataport.org/open-access/openbhb-multi-site-brain-mri-dataset-age-prediction-and-debiasing'
 ---

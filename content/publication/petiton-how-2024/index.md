@@ -4,13 +4,13 @@ title: How and Why Does Deep Ensemble Coupled with Transfer Learning Increase Pe
 authors:
 - Sara Petiton
 - Antoine Grigis
-- Benoit Dufumier
+- admin
 - Edouard Duchesnay
 date: '2024-05-01'
 publishDate: '2024-12-29T17:27:10.773674Z'
 publication_types:
 - paper-conference
-publication: '*2024 IEEE International Symposium on Biomedical Imaging (ISBI)*'
+publication: '*IEEE International Symposium on Biomedical Imaging -- ISBI 2024*'
 doi: 10.1109/ISBI56570.2024.10635777
 abstract: Transfer learning (TL) and deep ensemble learning (DE) have recently been
   shown to outperform simple machine learning in classifying psychiatric disorders.
@@ -47,4 +47,6 @@ tags:
 links:
 - name: URL
   url: https://ieeexplore.ieee.org/abstract/document/10635777
+url_pdf: https://ieeexplore.ieee.org/iel8/10635099/10635102/10635777.pdf
+url_code: https://github.com/SaraMPetiton/DE_with_TL_study
 ---

@@ -1,16 +1,16 @@
 ---
-title: MixUp Brain-Cortical Augmentations in Self-supervised Learning
+title: MixUp Brain-Cortical Augmentations in Self-supervised Learning
 authors:
 - Corentin Ambroise
 - Vincent Frouin
-- Benoit Dufumier
+- admin
 - Edouard Duchesnay
 - Antoine Grigis
 date: '2023-01-01'
 publishDate: '2024-12-29T17:27:10.744078Z'
 publication_types:
 - paper-conference
-publication: '*Machine Learning in Clinical Neuroimaging*'
+publication: '*Machine Learning in Clinical Neuroimaging -- MLCN 2023*'
 doi: 10.1007/978-3-031-44858-4_10
 abstract: 'Learning biological markers for a specific brain pathology is often impaired
   by the size of the dataset. With the advent of large open datasets in the general
@@ -30,10 +30,18 @@ abstract: 'Learning biological markers for a specific brain pathology is often i
   that surface-based self-supervised learning performs comparably to supervised baselines,
   but generalizes better to different tasks and datasets. In addition, the learned
   representations are improved by the proposed MixUp augmentations. The code is available
-  on GitHub (https://github.com/neurospin-projects/2022_cambroise_surfaugment).'
+  on [GitHub](https://github.com/neurospin-projects/2022_cambroise_surfaugment).'
 tags:
 - Brain structural MRI
 - Data augmentation
 - Self-supervised learning
 - Spherical convolutional neural networks
+
+links:
+- name: URL
+  url: https://link.springer.com/chapter/10.1007/978-3-031-44858-4_10
+
+url_pdf: https://hal.science/hal-04471607/document
+url_code: 'https://github.com/neurospin-projects/2022_cambroise_surfaugment'
+
 ---

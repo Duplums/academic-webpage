@@ -2,7 +2,7 @@
 title: 'Exploring the potential of representation and transfer learning for anatomical
   neuroimaging: Application to psychiatry'
 authors:
-- Benoit Dufumier
+- admin
 - Pietro Gori
 - Sara Petiton
 - Robin Louiset
@@ -51,4 +51,12 @@ tags:
 links:
 - name: URL
   url: https://www.sciencedirect.com/science/article/pii/S1053811924001605
+url_pdf: https://www.sciencedirect.com/science/article/pii/S1053811924001605
+url_code: 'https://github.com/Duplums/SMLvsDL'
+url_dataset: 'https://ieee-dataport.org/open-access/openbhb-multi-site-brain-mri-dataset-age-prediction-and-debiasing'
+featured: true
+
+image:
+  preview_only: false
+
 ---

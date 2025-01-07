@@ -3,7 +3,7 @@ title: Anatomical Foundation Models for Brain MRIs
 authors:
 - Carlo Alberto Barbano
 - Matteo Brunello
-- Benoit Dufumier
+- admin
 - Marco Grangetto
 date: '2024-11-01'
 publishDate: '2024-12-29T17:27:10.751353Z'
@@ -27,14 +27,11 @@ abstract: 'Deep Learning (DL) in neuroimaging has become increasingly relevant f
   conditions such as Alzheimer’s Disease, autism spectrum disorder, and schizophrenia.
   Furthermore, we also target the prediction of 10 different clinical assessment scores
   using structural MRI data. Our findings show that incorporating anatomical information
-  during pre-training leads to more robust and generalizable representations. Pre-trained
-  models can be found at: https://github.com/EIDOSLAB/AnatCL.'
-tags:
-- Computer Science - Artificial Intelligence
-- Computer Science - Computer Vision and Pattern Recognition
-- Computer Science - Machine Learning
-- Electrical Engineering and Systems Science - Image and Video Processing
+  during pre-training leads to more robust and generalizable representations.'
 links:
 - name: URL
   url: http://arxiv.org/abs/2408.07079
+url_pdf: 'https://arxiv.org/pdf/2408.07079'
+url_code: 'https://github.com/EIDOSLAB/AnatCL'
+url_dataset: 'https://ieee-dataport.org/open-access/openbhb-multi-site-brain-mri-dataset-age-prediction-and-debiasing'
 ---

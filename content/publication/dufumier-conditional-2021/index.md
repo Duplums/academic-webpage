@@ -2,7 +2,7 @@
 title: Conditional Alignment and Uniformity for Contrastive Learning with Continuous
   Proxy Labels
 authors:
-- Benoit Dufumier
+- admin
 - Pietro Gori
 - Julie Victor
 - Antoine Grigis
@@ -10,8 +10,8 @@ authors:
 date: '2021-11-01'
 publishDate: '2024-12-29T17:27:10.702257Z'
 publication_types:
-- manuscript
-publication: '*arXiv*'
+- paper-conference
+publication: '*Medical Imaging Meets NeurIPS Workshop 2021*'
 doi: 10.48550/arXiv.2111.05643
 abstract: 'Contrastive Learning has shown impressive results on natural and medical
   images, without requiring annotated data. However, a particularity of medical images
@@ -27,8 +27,14 @@ abstract: 'Contrastive Learning has shown impressive results on natural and medi
   optimization of both conditional alignment and uniformity improves the representations,
   in terms of linear evaluation, on both CIFAR-100 and a brain MRI dataset.'
 tags:
-- Computer Science - Machine Learning
+- Contrastive Learning
+- Weakly Supervised Learning
+- Brain imaging
 links:
 - name: URL
-  url: http://arxiv.org/abs/2111.05643
+  url: https://neurips.cc/virtual/2021/40536
+url_pdf: 'http://arxiv.org/abs/2111.05643'
+url_code: 'https://github.com/EIDOSLAB/unbiased-contrastive-learning'
+url_poster: 'https://neurips.cc/virtual/2021/40536'
+url_slides: 'https://neurips.cc/virtual/2021/40536'
 ---

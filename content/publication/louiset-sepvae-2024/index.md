@@ -4,13 +4,13 @@ authors:
 - Robin Louiset
 - Edouard Duchesnay
 - Antoine Grigis
-- Benoit Dufumier
+- admin
 - Pietro Gori
 date: '2024-04-01'
 publishDate: '2024-12-29T17:27:10.781381Z'
 publication_types:
-- manuscript
-publication: '*arXiv*'
+- conference-paper
+publication: '*Medical Imaging for Deep Learning -- MIDL 2024*'
 doi: 10.48550/arXiv.2307.06206
 abstract: 'Contrastive Analysis VAE (CA-VAEs) is a family of Variational auto-encoders
   (VAEs) that aims at separating the common factors of variation between a background
@@ -26,9 +26,13 @@ abstract: 'Contrastive Analysis VAE (CA-VAEs) is a family of Variational auto-en
   and a natural images dataset (CelebA). Code and datasets are available on GitHub
   https: //github.com/neurospin-projects/ 2023_rlouiset_sepvae.'
 tags:
-- Computer Science - Computer Vision and Pattern Recognition
-- Statistics - Machine Learning
+- Contrastive analysis
+- Variational autoencoder
+- Psychiatry
+- Generative models 
 links:
 - name: URL
-  url: http://arxiv.org/abs/2307.06206
+  url: https://openreview.net/forum?id=yLySzM5yxs
+url_pdf: https://openreview.net/pdf?id=yLySzM5yxs
+url_code: https://github.com/neurospin-projects/2023_rlouiset_sepvae
 ---

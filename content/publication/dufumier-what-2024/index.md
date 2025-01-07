@@ -1,7 +1,7 @@
 ---
 title: What to align in multimodal contrastive learning?
 authors:
-- Benoit Dufumier
+- admin
 - Javiera Castillo-Navarro
 - Devis Tuia
 - Jean-Philippe Thiran
@@ -30,11 +30,19 @@ abstract: 'Humans perceive the world through multisensory integration, blending 
   CoMM learns complex multimodal interactions and achieves state-of-the-art results
   on the six multimodal benchmarks.'
 tags:
-- Computer Science - Artificial Intelligence
-- Computer Science - Computation and Language
-- Computer Science - Computer Vision and Pattern Recognition
-- Computer Science - Machine Learning
+    - Multimodal contrastive learning 
+    - Self-supervised learning
+    - Representation learning
 links:
 - name: URL
   url: http://arxiv.org/abs/2409.07402
+
+featured: true
+
+url_pdf: 'http://arxiv.org/pdf/2409.07402'
+url_code: 'https://github.com/Duplums/align_or_not'
+url_dataset: 'https://github.com/pliang279/MultiBench'
+
+image:
+  preview_only: false
 ---

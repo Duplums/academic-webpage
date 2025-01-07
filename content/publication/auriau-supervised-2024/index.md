@@ -4,7 +4,7 @@ title: 'Supervised Diagnosis Prediction from Cortical Sulci: Toward the Discover
 authors:
 - Pierre Auriau
 - Antoine Grigis
-- Benoit Dufumier
+- admin
 - Robin Louiset
 - Joël Chavas
 - Pietro Gori
@@ -14,7 +14,7 @@ date: '2024-05-01'
 publishDate: '2024-12-29T17:27:10.758838Z'
 publication_types:
 - paper-conference
-publication: '*2024 IEEE International Symposium on Biomedical Imaging (ISBI)*'
+publication: '*IEEE International Symposium on Biomedical Imaging -- ISBI 2024*'
 doi: 10.1109/ISBI56570.2024.10635738
 abstract: Recent advances in machine learning applied to structural magnetic resonance
   imaging (sMRI) may highlight abnormalities in brain anatomy associated with mental
@@ -29,18 +29,15 @@ abstract: Recent advances in machine learning applied to structural magnetic res
   of these disorders can be captured with sMRI. Finally, we show the potential of
   visual explanations of models’ decisions in discovering biomarkers for mental disorders.
 tags:
-- Biological system modeling
 - Biomarkers
-- cortical sulci
-- deep learning
-- Magnetic resonance imaging
+- Cortical sulci
+- Deep learning
+- MRI
 - Mental disorders
-- neurodevelopment
-- Predictive models
-- psychiatric disorders
-- Shape
-- Visualization
+- Neurodevelopment
+
 links:
 - name: URL
   url: https://ieeexplore.ieee.org/document/10635738
+url_pdf: https://hal.science/hal-04494994/document
 ---

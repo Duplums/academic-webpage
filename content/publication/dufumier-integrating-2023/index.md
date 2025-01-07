@@ -1,7 +1,7 @@
 ---
 title: Integrating Prior Knowledge in Contrastive Learning with Kernel
 authors:
-- Benoit Dufumier
+- admin
 - Carlo Alberto Barbano
 - Robin Louiset
 - Edouard Duchesnay
@@ -11,7 +11,7 @@ publishDate: '2024-12-29T17:27:10.713426Z'
 publication_types:
 - paper-conference
 publication: '*Proceedings of the 40th International Conference on Machine Learning
-  – ICML 2023*'
+  -- ICML 2023*'
 abstract: Data augmentation is a crucial component in unsupervised contrastive learning
   (CL). It determines how positive samples are defined and, ultimately, the quality
   of the learned representation. In this work, we open the door to new perspectives
@@ -28,4 +28,6 @@ abstract: Data augmentation is a crucial component in unsupervised contrastive l
 links:
 - name: URL
   url: https://proceedings.mlr.press/v202/dufumier23a.html
+url_pdf: https://proceedings.mlr.press/v202/dufumier23a/dufumier23a.pdf
+url_code: 'https://github.com/duplums/contrastive-decoupled-uniformity'
 ---

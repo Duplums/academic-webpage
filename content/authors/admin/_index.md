@@ -11,7 +11,7 @@ last_name: Dufumier
 
 # Status emoji
 status:
-  icon: 🤓
+  icon: 
 
 # Is this the primary user of the site?
 superuser: true
@@ -51,7 +51,7 @@ interests:
   - Psychiatric disorders
 
 education:
-  - area: PhD Artificial Intelligence
+  - area: PhD in Artificial Intelligence
     institution: CEA & Télécom ParisTech
     date_start: 2019-11-01
     date_end: 2022-12-16
@@ -166,4 +166,5 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a researcher in machine learning at the GAIA Lab in NeuroSpin (CEA Saclay). My current research includes self-supervised representation learning applied to brain data (functional and anatomical), multimodal deep learning with a focus on information theory. Ultimately, I am interested in discovering new brain biomarkers underpinning mental disorders.
+I was a postdoc researcher advised by Jean-Philippe Thiran at EPFL. Before that, I obtained my PhD in computer science from the Université Paris-Saclay, under the supervision of Edouard Duchesnay, Pietro Gori and Arthur Tenenhaus.

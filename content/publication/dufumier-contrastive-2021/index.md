@@ -17,7 +17,7 @@ authors:
 date: '2021-01-01'
 publishDate: '2024-12-29T16:52:30.229334Z'
 publication_types:
-- paper-conference
+- article
 publication: '*Medical Image Computing and Computer Assisted Intervention – MICCAI
   2021*'
 doi: 10.1007/978-3-030-87196-3_6
@@ -38,4 +38,16 @@ abstract: 'Traditional supervised learning with deep neural networks requires a 
   schizophrenia, bipolar diagnosis and Alzheimer’s detection. When fine-tuned, it
   also outperforms 3D CNN trained from scratch on these tasks, as well as state-of-the-art
   self-supervised methods. Our code is made publicly available here.'
+
+links:
+- name: URL
+  url: https://arxiv.org/pdf/2106.08808
+url_pdf: https://arxiv.org/pdf/2106.08808
+url_code: 'https://github.com/Duplums/yAwareContrastiveLearning'
+url_dataset: 'https://ieee-dataport.org/open-access/openbhb-multi-site-brain-mri-dataset-age-prediction-and-debiasing'
+featured: true
+
+image:
+  preview_only: false
 ---
+

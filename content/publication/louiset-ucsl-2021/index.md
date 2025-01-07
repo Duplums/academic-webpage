@@ -1,10 +1,10 @@
 ---
-title: 'UCSL : A Machine Learning Expectation-Maximization Framework for Unsupervised
-  Clustering Driven by Supervised Learning'
+title: 'UCSL: A Machine Learning Expectation-Maximization Framework for Unsupervised
+  Clustering Driven by Supervised Learning'
 authors:
 - Robin Louiset
 - Pietro Gori
-- Benoit Dufumier
+- admin
 - Josselin Houenou
 - Antoine Grigis
 - Edouard Duchesnay
@@ -12,7 +12,7 @@ date: '2021-01-01'
 publishDate: '2024-12-29T17:27:10.736454Z'
 publication_types:
 - paper-conference
-publication: '*Machine Learning and Knowledge Discovery in Databases. Research Track*'
+publication: '*Machine Learning and Knowledge Discovery in Databases -- ECML PKDD 2021*'
 doi: 10.1007/978-3-030-86486-6_46
 abstract: Subtype Discovery consists in finding interpretable and consistent sub-parts
   of a dataset, which are also relevant to a certain supervised task. From a mathematical
@@ -32,11 +32,16 @@ abstract: Subtype Discovery consists in finding interpretable and consistent sub
   sub-types by conducting a psychiatric-diseases cluster analysis with known ground-truth
   labels. The gain of the proposed method over previous state-of-the-art techniques
   is about +1.9 points in terms of balanced accuracy. Finally, we make codes and examples
-  available in a scikit-learn-compatible Python package. https://github.com/neurospin-projects/2021_rlouiset_ucsl/.
+  available in a scikit-learn-compatible Python package.
 tags:
 - Clustering
 - Expectation-maximization
 - Machine learning
 - Neuroimaging
 - Subtype discovery
+links:
+- name: URL
+  url: https://link.springer.com/chapter/10.1007/978-3-030-86486-6_46
+url_pdf: https://link.springer.com/chapter/10.1007/978-3-030-86486-6_46
+url_code: https://github.com/neurospin-projects/2021_rlouiset_ucsl
 ---

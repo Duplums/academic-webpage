@@ -6,7 +6,7 @@ authors:
 - Ward B. Manchester
 - Alfred O. Hero
 - Gabor Toth
-- Benoit Dufumier
+- admin
 - Tian Zhou
 - Xiantong Wang
 - Haonan Zhu
@@ -33,8 +33,8 @@ abstract: 'In this paper we present several methods to identify precursors that 
   in the prediction score around 20 hr before strong solar flare events.'
 tags:
 - machine learning
-- prediction
-- solar flares
+- solar flares prediction
+- classification
 links:
 - name: URL
   url: https://onlinelibrary.wiley.com/doi/abs/10.1029/2019SW002214
